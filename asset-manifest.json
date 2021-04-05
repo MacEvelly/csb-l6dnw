@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-l6dnw/static/css/main.a56241a4.chunk.css",
+    "main.js": "https://.github.io/csb-l6dnw/static/js/main.fafc4091.chunk.js",
+    "main.js.map": "https://.github.io/csb-l6dnw/static/js/main.fafc4091.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-l6dnw/static/js/runtime-main.d8191634.js",
+    "runtime-main.js.map": "https://.github.io/csb-l6dnw/static/js/runtime-main.d8191634.js.map",
+    "static/js/2.90be35b5.chunk.js": "https://.github.io/csb-l6dnw/static/js/2.90be35b5.chunk.js",
+    "static/js/2.90be35b5.chunk.js.map": "https://.github.io/csb-l6dnw/static/js/2.90be35b5.chunk.js.map",
+    "face_tracking_model.zbin": "https://.github.io/csb-l6dnw/482727c0e7dd40d73f5aae47f238ad61.zbin",
+    "face_mesh_face_model.zbin": "https://.github.io/csb-l6dnw/b4f46e148a3b3b5aef90717d8d60e3fc.zbin",
+    "face_mesh_full_head_simplified_model.zbin": "https://.github.io/csb-l6dnw/f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
+    "index.html": "https://.github.io/csb-l6dnw/index.html",
+    "static/css/main.a56241a4.chunk.css.map": "https://.github.io/csb-l6dnw/static/css/main.a56241a4.chunk.css.map",
+    "static/js/2.90be35b5.chunk.js.LICENSE.txt": "https://.github.io/csb-l6dnw/static/js/2.90be35b5.chunk.js.LICENSE.txt",
+    "static/js/worker.375f3379.worker.js": "https://.github.io/csb-l6dnw/static/js/worker.375f3379.worker.js",
+    "static/js/worker.375f3379.worker.js.map": "https://.github.io/csb-l6dnw/static/js/worker.375f3379.worker.js.map",
+    "zcv/zcv.wasm": "https://.github.io/csb-l6dnw/zcv/zcv.wasm"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8191634.js",
+    "static/js/2.90be35b5.chunk.js",
+    "static/css/main.a56241a4.chunk.css",
+    "static/js/main.fafc4091.chunk.js"
+  ]
+}
